@@ -18,10 +18,10 @@ Deployment
 🙏 Acknowledgements
 ❓ FAQ (OPTIONAL)
 📝 License
-📖 [Hello]
+📖Hello
 setting up simple hello microverse project
 
-[Hello] is my first microverse project
+Hello is my first microverse project
 
 🛠 Built With
 Visual studio
@@ -30,10 +30,9 @@ git
 
 
  key features of the application.
-
-[Linters]
-[gitignore]
-[html_file]
+Linters
+gitignore
+html_file
 
 
 🚀 Live Demo
@@ -83,9 +82,9 @@ LinkedIn: Mohamed Hassan
 🔭 Future Features
 Describe 1 - 3 features you will add to the project.
 
- [databases]
- [client_server]
- [server_side]
+ databases
+ client_server
+ server_side
 
 
 🤝 Contributing
@@ -112,12 +111,13 @@ I would like to thank my coding partner Lethabo who assisted me
 ❓ FAQ (OPTIONAL)
 Add at least 2 questions new developers would ask when they decide to use your project.
 
-[how to set up linters for html/css. check the link]
+how to set up linters for html/css. check the link
 
-[https://www.youtube.com/watch?v=e3I-CIYz1AE&t=4s]
-[cloning ssh key in github]
+https://www.youtube.com/watch?v=e3I-CIYz1AE&t=4s
 
-[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent]
+cloning ssh key in github
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 
 📝 License
